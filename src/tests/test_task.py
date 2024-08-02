@@ -1,5 +1,5 @@
 import unittest
-from src.app import create_app
+from app import create_app
 from src.database import db
 
 class TaskTestCase(unittest.TestCase):
